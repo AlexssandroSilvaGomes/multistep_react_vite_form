@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react-swc'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/todo_react_vite",
+  base: "/multistep_react_vite_form",
   plugins: [react()],
 })
