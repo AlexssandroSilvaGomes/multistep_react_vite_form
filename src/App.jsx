@@ -61,7 +61,7 @@ function App() {
                 </button>
               ) : (
                 <button type="button">
-                  <span>Eviar</span>
+                  <span>Enviar</span>
                   <FiSend />
                 </button>
               )}
